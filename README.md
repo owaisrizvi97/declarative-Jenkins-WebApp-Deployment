@@ -11,8 +11,13 @@ Docker
 #Steps
 
 1- Create AWS instance and add user-data script for quick installation and updates of packages and installation of our Jenkins server.
+
 2- Configure Jenkins by <ip:8080> and install recommended plugins and set admin user.
+
+
 3- Configure pipeline and build
+
+
 4- Test by running over port 8001
 
 React Todo app:
